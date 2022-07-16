@@ -37,6 +37,7 @@ type Triangle struct {
 	Height float64
 }
 
+// Only applies to the perimeter of a right-angled triangle
 func (t Triangle) Perimeter() float64 {
 	return t.Base + t.Height + math.Sqrt(math.Pow(t.Base, 2)+math.Pow(t.Height, 2))
 }
