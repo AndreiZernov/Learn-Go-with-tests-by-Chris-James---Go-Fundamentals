@@ -8,7 +8,7 @@
 - [x] Arrays and Slices
 - [x] Structs, methods and interfaces
 - [x] Pointers and errors
-- [ ] Maps
+- [x] Maps
 - [ ] Dependency Injection
 - [ ] Mocking
 - [ ] Concurrency
