@@ -7,7 +7,7 @@
 - [x] Iteration
 - [x] Arrays and Slices
 - [x] Structs, methods and interfaces
-- [ ] Pointers and errors
+- [x] Pointers and errors
 - [ ] Maps
 - [ ] Dependency Injection
 - [ ] Mocking
